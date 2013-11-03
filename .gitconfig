@@ -1,0 +1,11 @@
+[user]
+	name = Zheyuan Liu
+	email = zheyuan@wharton.upenn.edu
+[color]
+	ui = true
+[alias]
+	ci = commit
+	lc = log ORIG_HEAD.. --stat --no-merges
+	llog = log --date=local
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+
