@@ -1,5 +1,6 @@
 [user]
 	name = Jack Liu
+	email = 5811028+zheyuan-liu@users.noreply.github.com
 [color]
 	ui = true
 [alias]
@@ -8,3 +9,5 @@
 	llog = log --date=local
 	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
 
+[core]
+	editor = vim
